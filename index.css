@@ -16,6 +16,8 @@ body {
     background-color: #FBF9CE;
     color: #9F5E33;
     border-radius: 20px;
+    padding: 1em 0;
+    margin: 1rem auto;
 }
 
 h1 {
